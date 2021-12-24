@@ -58,11 +58,10 @@ body {
 
 .card_title
 {  
-    margin-top: 35px;
+    margin-top: 30px;
     font-size: 28px;
    color: var(--darkblue);
    font-weight: 900;
-   margin-bottom: 1rem;
 }
 
 .text
@@ -122,10 +121,10 @@ article a:hover {
     font-weight: 900;
     display: block;
     background-color: #3829e0;
-    margin: 0 48px 25px 48px;
+    margin: 0 48px 22px 48px;
     border-radius: 10px;
     text-align: center;
-    padding: 12px 0;
+    padding: 10px 0;
     color: #ffffff;
     text-decoration: none;
     box-shadow: 0 20px 20px 0 rgba(56, 42, 225, 0.19);
