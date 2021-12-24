@@ -117,7 +117,7 @@ article a:hover {
   
 
   .payment {
-    font-size:0.875rem;
+    font-size:0.813rem;
     font-weight: 900;
     display: block;
     background-color: #3829e0;
@@ -136,7 +136,7 @@ article a:hover {
   }
 
   .cancel {
-    font-size:0.875rem;
+    font-size:0.813rem;
     font-weight: 900;
     text-decoration: none;
     color: #7280a7;
@@ -150,12 +150,6 @@ article a:hover {
   .btns {
       margin-bottom: 40px;
   }
-
-.attribution 
-    { font-size: 11px; text-align: center; }
-
-.attribution a 
-   { color: hsl(228, 45%, 44%); }
 
    @media only screen and (max-width:480px) {
     
