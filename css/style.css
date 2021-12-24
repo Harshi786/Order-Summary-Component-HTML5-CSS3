@@ -58,7 +58,7 @@ body {
 
 .card_title
 {  
-    margin-top: 45px;
+    margin-top: 40px;
     font-size: 28px;
    color: var(--darkblue);
    font-weight: 900;
@@ -80,7 +80,7 @@ article {
     background-color: var(--verypaleblue);
     border-radius: 10px;
     padding: 25px 24px;
-    margin: 0 48px 32px 48px;
+    margin: 0 48px 30px 48px;
 }
 .plan {
     display: flex;
@@ -118,14 +118,14 @@ article a:hover {
   
 
   .payment {
-    font-size: 1rem;
+    font-size:0.875rem;
     font-weight: 900;
     display: block;
     background-color: #3829e0;
-    margin: 0 48px 32px 48px;
+    margin: 0 48px 30px 48px;
     border-radius: 10px;
     text-align: center;
-    padding: 15px 0;
+    padding: 14px 0;
     color: #ffffff;
     text-decoration: none;
     box-shadow: 0 20px 20px 0 rgba(56, 42, 225, 0.19);
@@ -137,7 +137,7 @@ article a:hover {
   }
 
   .cancel {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 900;
     text-decoration: none;
     color: #7280a7;
