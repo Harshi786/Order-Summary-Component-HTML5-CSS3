@@ -58,7 +58,7 @@ body {
 
 .card_title
 {  
-    margin-top: 30px;
+    margin-top: 26px;
     font-size: 28px;
    color: var(--darkblue);
    font-weight: 900;
@@ -68,7 +68,7 @@ body {
 {   
     color: var(--desaturatedblue);
     font-size: 16px;
-    margin: 1.1rem 3rem;
+    margin: 1rem 3rem;
 
 }
 
@@ -78,7 +78,7 @@ article {
     flex: auto;
     background-color: var(--verypaleblue);
     border-radius: 10px;
-    padding:24px;
+    padding:23px 24px;
     margin: 0 48px 20px 48px;
 }
 .plan {
@@ -121,10 +121,10 @@ article a:hover {
     font-weight: 900;
     display: block;
     background-color: #3829e0;
-    margin: 0 48px 20px 48px;
+    margin: 0 48px 14px 48px;
     border-radius: 10px;
     text-align: center;
-    padding: 8px 0;
+    padding: 5px 0;
     color: #ffffff;
     text-decoration: none;
     box-shadow: 0 20px 20px 0 rgba(56, 42, 225, 0.19);
@@ -148,7 +148,7 @@ article a:hover {
   }
 
   .btns {
-      margin-bottom: 32px;
+      margin-bottom: 40px;
   }
 
 .attribution 
