@@ -154,7 +154,7 @@ article a:hover {
    @media only screen and (max-width:480px) {
     
 .bg_img {
-    background:url("../images/pattern-background-mobile.svg") no-repeat top/contain;
+    background:url("../images/pattern-background-mobile.svg") no-repeat top;
     position: absolute;
     top: 0;
     left: 0;
