@@ -30,7 +30,7 @@ body {
 
 
 .bg_img {
-    background:url("../images/pattern-background-desktop.svg") no-repeat top/contain ;
+    background:url("../images/pattern-background-desktop.svg") no-repeat top/100% ;
     position: absolute;
     top: 0;
     left: 0;
